@@ -7,5 +7,5 @@ Data science final project for CSDS 133: Intro to Data Science
 ## Libraries/Technologies Used
 1. scikit-stats for general data analysis 
 2. Matplotlib for data visualization
-3. scikit-learn for machine learning/kNN analysis
+3. scikit-learn for machine learning/kNN algorithm
  
